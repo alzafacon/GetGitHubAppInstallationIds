@@ -1,0 +1,17 @@
+{
+  "name": "github-app-jwt-generate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/auth-app": "^3.5.0",
+    "@octokit/rest": "^18.6.1",
+    "dotenv": "^10.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
