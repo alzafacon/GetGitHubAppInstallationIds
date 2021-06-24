@@ -8,3 +8,5 @@ copy sample.env .env
 #  like so: GITHUB_PRIVATE_KEY="...\n...\n..."
 npm run start
 ```
+
+credit to [jdaboub](https://github.com/jdaboub)
